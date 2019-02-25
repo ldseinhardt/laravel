@@ -1,6 +1,6 @@
 # Laravel project
 
-###Install php packages
+### Install php packages
 
 ```
 composer install
